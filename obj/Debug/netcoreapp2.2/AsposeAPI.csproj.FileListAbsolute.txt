@@ -1,0 +1,14 @@
+/home/ctrl_null/WorkRepos/AsposeAPI/bin/Debug/netcoreapp2.2/AsposeAPI.deps.json
+/home/ctrl_null/WorkRepos/AsposeAPI/bin/Debug/netcoreapp2.2/AsposeAPI.runtimeconfig.json
+/home/ctrl_null/WorkRepos/AsposeAPI/bin/Debug/netcoreapp2.2/AsposeAPI.runtimeconfig.dev.json
+/home/ctrl_null/WorkRepos/AsposeAPI/bin/Debug/netcoreapp2.2/AsposeAPI.dll
+/home/ctrl_null/WorkRepos/AsposeAPI/bin/Debug/netcoreapp2.2/AsposeAPI.pdb
+/home/ctrl_null/WorkRepos/AsposeAPI/obj/Debug/netcoreapp2.2/AsposeAPI.csprojAssemblyReference.cache
+/home/ctrl_null/WorkRepos/AsposeAPI/obj/Debug/netcoreapp2.2/AsposeAPI.csproj.CoreCompileInputs.cache
+/home/ctrl_null/WorkRepos/AsposeAPI/obj/Debug/netcoreapp2.2/AsposeAPI.RazorAssemblyInfo.cache
+/home/ctrl_null/WorkRepos/AsposeAPI/obj/Debug/netcoreapp2.2/AsposeAPI.RazorAssemblyInfo.cs
+/home/ctrl_null/WorkRepos/AsposeAPI/obj/Debug/netcoreapp2.2/AsposeAPI.AssemblyInfoInputs.cache
+/home/ctrl_null/WorkRepos/AsposeAPI/obj/Debug/netcoreapp2.2/AsposeAPI.AssemblyInfo.cs
+/home/ctrl_null/WorkRepos/AsposeAPI/obj/Debug/netcoreapp2.2/AsposeAPI.RazorTargetAssemblyInfo.cache
+/home/ctrl_null/WorkRepos/AsposeAPI/obj/Debug/netcoreapp2.2/AsposeAPI.dll
+/home/ctrl_null/WorkRepos/AsposeAPI/obj/Debug/netcoreapp2.2/AsposeAPI.pdb
